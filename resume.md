@@ -27,19 +27,19 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
 [GET Conference](www.getconference.org) | Harvard Medical School  | April 26 | Organizer
-GET Labs
-GETy Awards
+[GET Labs](www.getconference.org/get2016/labs.html) | Harvard Medical School  | April 25 | Organizer
+[GETy Awards](http://www.getconference.org/get2016/awards.html) | Harvard Medical School  | April 25 | Organizer
+
 Berlin Workweek
-White House (x 6)
 HDE Network Meeting
 QSPH
 Data Dive with Open Humans
 Shenzhen Assembly
-MedX
+MedX NYC Pop-up
+White House (x 6)
 ...more
 
 #### TALKS
-
 * TALK 1; [link to talk](); [link to slides]()
 * TALK 2; [link to talk](); [link to slides]()
 
