@@ -16,9 +16,9 @@ Copy the format below into your own text file (.txt) or markdown file (.md) with
 
 Fill out the bracketed/all-caps terms with your details.
 
-###[NAME] 
-###[AFFILIATION]
-###[CONTACT INFO]
+###[Jason Bobe] 
+###[Icahn Institute]
+###[@jasonbobe]
 
 As part of the 2015 Mozilla Fellows for Science program, I completed/participated in the following: 
 
@@ -26,8 +26,17 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-[CONFERENCE 1]() | PLACE  | DATE | Attendee/Speaker/Organizer
-[MEETUP 1]() | PLACE | DATE | Attendee/Speaker/Organizer
+[GET Conference](www.getconference.org) | Harvard Medical School  | April 26 | Organizer
+GET Labs
+GETy Awards
+Berlin Workweek
+White House (x 6)
+HDE Network Meeting
+QSPH
+Data Dive with Open Humans
+Shenzhen Assembly
+MedX
+...more
 
 #### TALKS
 
@@ -47,6 +56,12 @@ TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 NAME | JS/D3  | [LINK](https://github.com/mozilla/opennews-onboarding) | SOME DESCRIPTION
 NAME 2 | D3 | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+Sharing Guide
+ResearchKit Apps
+Genome Letters
+DIYbiosphere
+Privacy Resources
+Designing Open Biomedical Research
 
 #### CONNECTIONS
 I met with or made significant connections with the following organizations and people:
