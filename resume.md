@@ -8,16 +8,21 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+ONC Consumer Health Summit | Washington DC | October 1, 2015 | Speaker
+MozFest | London | November 4-7, 2015 | Contributor
+AMIA | San Francisco | November 17, 2015 | Speaker 
+[Working Open Workshop](more) | Berlin | Feb 3 or so | Speaker
+[Shenzhen Assembly](more) | Shenzhen, China | March 23-27 | Speaker
+Bio-IT World | Boston | April 7 | Speaker
 [GET Conference](www.getconference.org) | Harvard Medical School  | April 26 | Organizer
 [GET Labs](www.getconference.org/get2016/labs.html) | Harvard Medical School  | April 25 | Organizer
 [GETy Awards](http://www.getconference.org/get2016/awards.html) | Harvard Medical School  | April 25 | Organizer
-[Working Open Workshop](more) | Berlin | Not sure | Speaker
-[HDE Network Meeting](more) | San Diego | Not sure | Speaker
-[QSPH](more) | San Diego | Not sure | Speaker
-[Data Dive](more) | San Diego | Not sure | Speaker
-[Shenzhen Assembly](more) | Shenzhen | Not sure | Speaker
-[MedX NYC Pop-up](more) | NYC | Not sure | Speaker
-[White House]() | Washington DC | Several | Workshop participant
+[Biology of Genomes]() | Cold Spring Harbor, NY | May 12 | Speaker
+[HDE Network Meeting](more) | San Diego | May 17 | Speaker
+[QSPH](more) | San Diego | May 18 | Speaker
+[Data Dive](more) | San Diego | May 19 | Participant and co-organizer
+[MedX NYC Pop-up](more) | NYC | May 26 | Speaker
+[White House]() | Washington DC | Several (June 2-3, June 28-29) | Workshop participant
 
 
 #### TALKS
@@ -25,7 +30,7 @@ Event | Location | Date | Role
 * TALK 2; [link to talk](); [link to slides]()
 
 #### TRAININGS
-* Good Science isn't Good Enough; [link to talk]()
+* Good science isn't good enough: participant-centered design. A workshop with examples across governance, tools, & engagement.; June 14, 2016; Pediatric Medicine Group at Mount Sinai;  Summary: Designing a successful biomedical research study requires more than just good science. You also need thoughtful governance, the right digital tools and platforms, and approaches to engagement that really motivate research participants to sign-up and stick around throughout the study. Learn about some of the design strategies in the Resilience Project, an Icahn Institute study searching for people who, according to medical textbooks, should be sick but have somehow escaped typical signs and symptoms of disease.
 
 #### BLOGS
 * BLOG 1; [link to blog]()
