@@ -11,23 +11,21 @@ Event | Location | Date | Role
 [GET Conference](www.getconference.org) | Harvard Medical School  | April 26 | Organizer
 [GET Labs](www.getconference.org/get2016/labs.html) | Harvard Medical School  | April 25 | Organizer
 [GETy Awards](http://www.getconference.org/get2016/awards.html) | Harvard Medical School  | April 25 | Organizer
+[Working Open Workshop](more) | Berlin | Not sure | Speaker
+[HDE Network Meeting](more) | San Diego | Not sure | Speaker
+[QSPH](more) | San Diego | Not sure | Speaker
+[Data Dive](more) | San Diego | Not sure | Speaker
+[Shenzhen Assembly](more) | Shenzhen | Not sure | Speaker
+[MedX NYC Pop-up](more) | NYC | Not sure | Speaker
+[White House]() | Washington DC | Several | Workshop participant
 
-Berlin Workweek
-HDE Network Meeting
-QSPH
-Data Dive with Open Humans
-Shenzhen Assembly
-MedX NYC Pop-up
-White House (x 6)
-...more
 
 #### TALKS
 * TALK 1; [link to talk](); [link to slides]()
 * TALK 2; [link to talk](); [link to slides]()
 
 #### TRAININGS
-* TRAINING 1; [link to talk]()
-* TRAINING 2; [link to talk]()
+* Good Science isn't Good Enough; [link to talk]()
 
 #### BLOGS
 * BLOG 1; [link to blog]()
@@ -43,12 +41,5 @@ Sharing Genome Letters | Github | [LINK](https://github.com/jasonbobe/sharing-ge
 Resilience Project | User Centered Design | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
 DIYbiosphere | Github | [LINK](https://github.com/DIYbiosphere) | Contributed to the development of this project to catalogue DIYbio activities worldwide.
 Open Science Advocacy in Biomedicine | Post-it Notes + Sharpies | [LINK](https://science.mozilla.org/blog/ff-jason) | Contribute to Precision Medicine Initiative workshops
+GET Labs & Expo | Elbow Grease | [LINK](http://www.getconference.org/get2016/labs.html) |  Produced an event designed for researchers interested in learning about new tools and services that support the execution of successful participatory research studies. 
 
-#### CONNECTIONS
-I met with or made significant connections with the following organizations and people:
-
-* PERSON 1
-* PERSON 2
-* ORGANIZATION
-* INSTITUTION
-* GROUP
