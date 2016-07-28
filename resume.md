@@ -36,14 +36,14 @@ White House (x 6)
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-NAME | JS/D3  | [LINK](https://github.com/mozilla/opennews-onboarding) | SOME DESCRIPTION
-NAME 2 | D3 | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
-Sharing Guide
-ResearchKit Apps
-Genome Letters
-DIYbiosphere
-Privacy Resources
-Designing Open Biomedical Research
+Sharing Guidebook | Github  | [LINK](http://blog.jasonbobe.net/sharing-guidebook/) | This guidebook compiles the sharing patterns from leading biomedical research studies. 
+Navigating Privacy in Open Biomedicine | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+ResearchKit Apps | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+Sharing Genome Letters | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+DIYbiosphere | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+Open Science Advocacy in Biomedicine | Post-it Notes + Sharpies | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+Resilience Project | User Centered Design | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+
 
 #### CONNECTIONS
 I met with or made significant connections with the following organizations and people:
