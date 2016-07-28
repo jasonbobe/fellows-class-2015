@@ -37,13 +37,12 @@ White House (x 6)
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 Sharing Guidebook | Github  | [LINK](http://blog.jasonbobe.net/sharing-guidebook/) | This guidebook compiles the sharing patterns from leading biomedical research studies. 
-Navigating Privacy in Open Biomedicine | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
-ResearchKit Apps | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
-Sharing Genome Letters | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
-DIYbiosphere | Github | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
-Open Science Advocacy in Biomedicine | Post-it Notes + Sharpies | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+Navigating Privacy in Open Biomedicine | Github | [LINK](http://blog.jasonbobe.net/privacy-resources/) | SOME DESCRIPTION
+ResearchKit Apps | Github | [LINK](https://github.com/jasonbobe/research-kit-apps) | SOME DESCRIPTION
+Sharing Genome Letters | Github | [LINK](https://github.com/jasonbobe/sharing-genome-letters) | SOME DESCRIPTION
 Resilience Project | User Centered Design | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
-
+DIYbiosphere | Github | [LINK](https://github.com/DIYbiosphere) | Contributed to the development of this project to catalogue DIYbio activities worldwide.
+Open Science Advocacy in Biomedicine | Post-it Notes + Sharpies | [LINK](https://science.mozilla.org/blog/ff-jason) | Contribute to Precision Medicine Initiative workshops
 
 #### CONNECTIONS
 I met with or made significant connections with the following organizations and people:
