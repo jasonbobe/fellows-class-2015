@@ -8,10 +8,17 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
+[Roundtable on Patient Data Donation for Research](more) | White House Washington DC | August 7, 2014
+[Precision Medicine Announcement]() | East Wing of Whitehouse | January 30, 2015 | Invited guest
+[White House Precision Medicine and Privacy Roundtable]() | Washington DC | March 9-10, 2015 | Invited contributor
+[PMI Workshop]() | Countway Library at Harvard Med | June 25, 2015 | Invited contributor
+[Whitehouse Champions of Change](https://www.whitehouse.gov/champions) | Washington DC | July 8, 2015 | Invited contributor
 [ONC Consumer Health Summit](http://www.capconcorp.com/meeting/2014/Consumer-Health-IT-Summit/) | Washington DC | October 1, 2015 | Speaker
 [Mozilla Festival](https://mozillafestival.org/) | London | November 4-7, 2015 | Contributor
 [AMIA Annual Symposium](https://www.amia.org/amia2015) | San Francisco | November 17, 2015 | Speaker 
 [Working Open Workshop](https://science.mozilla.org/working-open-workshop-february-2016) | Berlin | Feb 4-6, 2015 | Speaker
+[Precision Medicine Initiative Summit at the Whitehouse}(more) | Washington DC | Feb 25, 2016 | Invited contributor
+[Open Data Roundatable on Privacy](https://www.data.gov/meta/open-data-roundtables/) | Washington DC | March 24, 2016 | Invited contributor
 [Shenzhen Assembly: Open Innovation and the Environment](http://sagebase.org/events/sage-event-02/) | Shenzhen, China | March 24-26, 2016 | Speaker
 [Bio-IT World](http://www.bio-itworldexpo.com/) | Boston | April 7, 2016 | Speaker
 [GETy Awards](http://www.getconference.org/get2016/awards.html) | Harvard Medical School  | April 25, 2016 | Organizer
