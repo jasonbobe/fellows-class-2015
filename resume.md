@@ -8,7 +8,7 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-[Roundtable on Patient Data Donation for Research](more) | White House Washington DC | August 7, 2014
+[Roundtable on Patient Data Donation for Research](more) | White House Washington DC | August 7, 2014 | Invited contributor
 [Precision Medicine Announcement]() | East Wing of Whitehouse | January 30, 2015 | Invited guest
 [White House Precision Medicine and Privacy Roundtable]() | Washington DC | March 9-10, 2015 | Invited contributor
 [PMI Workshop]() | Countway Library at Harvard Med | June 25, 2015 | Invited contributor
@@ -29,8 +29,9 @@ Event | Location | Date | Role
 [QSPH](more) | San Diego | May 18, 2016 | Speaker
 [Open Humans Data Dive](more) | San Diego | May 19, 2016 | Participant and co-organizer
 [MedX NYC Pop-up](more) | NYC | May 26, 2016 | Speaker
+[White House]() | Washington DC | June 2-3, 2016 | Workshop participant
 [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2016) | Washington DC | June 3, 2016 | Collaborator
-[White House]() | Washington DC | Several June 2-3, June 28-29 more... | Workshop participant
+[White House]() | Washington DC | June 28-29, 2016 | Workshop participant
 [Nairobi Work Week]() | Nairobi, Kenya | July 26 - August 1, 2016 | Speaker
 
 #### PROJECTS
