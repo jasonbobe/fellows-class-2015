@@ -8,11 +8,7 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-[Roundtable on Patient Data Donation for Research](more) | White House Washington DC | August 7, 2014 | Invited contributor
-[Precision Medicine Announcement]() | East Wing of Whitehouse | January 30, 2015 | Invited guest
-[White House Precision Medicine and Privacy Roundtable]() | Washington DC | March 9-10, 2015 | Invited contributor
-[PMI Workshop]() | Countway Library at Harvard Med | June 25, 2015 | Invited contributor
-[White House Champions of Change](https://www.whitehouse.gov/champions) | Washington DC | July 8, 2015 | Invited contributor
+
 [ONC Consumer Health Summit](http://www.capconcorp.com/meeting/2014/Consumer-Health-IT-Summit/) | Washington DC | October 1, 2015 | Speaker
 [Mozilla Festival](https://mozillafestival.org/) | London | November 4-7, 2015 | Contributor
 [AMIA Annual Symposium](https://www.amia.org/amia2015) | San Francisco | November 17, 2015 | Invited speaker 
