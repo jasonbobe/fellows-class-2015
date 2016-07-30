@@ -9,9 +9,9 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
 [ONC Consumer Health Summit](http://www.capconcorp.com/meeting/2014/Consumer-Health-IT-Summit/) | Washington DC | October 1, 2015 | Invited speaker
-[Mozilla Festival](https://mozillafestival.org/) | London | November 4-7, 2015 | Contributor
-[AMIA Annual Symposium](https://www.amia.org/amia2015) | San Francisco | November 17, 2015 | Invited speaker 
-[Working Open Workshop](https://science.mozilla.org/working-open-workshop-february-2016) | Berlin | Feb 4-6, 2015 | Invited speaker
+[Mozilla Festival](https://mozillafestival.org/) | London, UK | November 4-7, 2015 | Contributor
+[AMIA Annual Symposium](https://www.amia.org/amia2015) | San Francisco, CA | November 17, 2015 | Invited speaker 
+[Working Open Workshop](https://science.mozilla.org/working-open-workshop-february-2016) | Berlin, Germany | Feb 4-6, 2015 | Invited speaker
 [Precision Medicine Initiative Summit at the White House](more) | Washington DC | Feb 25, 2016 | Invited contributor
 [Open Data Roundatable on Privacy](https://www.data.gov/meta/open-data-roundtables/) | Washington DC | March 24, 2016 | Invited contributor
 [Shenzhen Assembly: Open Innovation and the Environment](http://sagebase.org/events/sage-event-02/) | Shenzhen, China | March 24-26, 2016 | Invited speaker
