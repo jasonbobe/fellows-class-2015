@@ -42,9 +42,10 @@ GET Labs & Expo | Elbow Grease | [LINK](http://www.getconference.org/get2016/lab
 DIYbiosphere | Github | [LINK](https://github.com/DIYbiosphere) | Contributed to the development of this project to catalogue DIYbio activities worldwide, led by sabgaby.
 
 #### TRAININGS
-* Good science isn't good enough: participant-centered design. June 14, 2016. Pediatric Research Group at Mount Sinai
-** Abstract: Designing a successful biomedical research study requires more than just good science. You also need thoughtful governance, the right digital tools and platforms, and approaches to engagement that really motivate research participants to sign-up and stick around throughout the study. Learn about some of the design strategies in the Resilience Project, an Icahn Institute study searching for people who, according to medical textbooks, should be sick but have somehow escaped typical signs and symptoms of disease.
-
+* Good science isn't good enough: workshop on participant-centered design. June 14, 2016. 
+  * Abstract: Designing a successful biomedical research study requires more than just good science. You also need thoughtful governance, the right digital tools and platforms, and approaches to engagement that really motivate research participants to sign-up and stick around throughout the study. Learn about some of the design strategies in the Resilience Project, an Icahn Institute study searching for people who, according to medical textbooks, should be sick but have somehow escaped typical signs and symptoms of disease.
+  * Audience: Pediatric Research Group at Mount Sinai School of Medicine
+  
 #### BLOGS
 * [Being a Mozilla Science Fellow](http://blog.jasonbobe.net/mozilla-fellow-retrospective/)
 * [GET Labs 2016](http://blog.jasonbobe.net/Architecture-Participation-GET-Labs/)
