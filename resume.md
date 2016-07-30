@@ -8,7 +8,6 @@ As part of the 2015 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-
 [ONC Consumer Health Summit](http://www.capconcorp.com/meeting/2014/Consumer-Health-IT-Summit/) | Washington DC | October 1, 2015 | Speaker
 [Mozilla Festival](https://mozillafestival.org/) | London | November 4-7, 2015 | Contributor
 [AMIA Annual Symposium](https://www.amia.org/amia2015) | San Francisco | November 17, 2015 | Invited speaker 
