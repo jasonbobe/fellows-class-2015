@@ -8,6 +8,7 @@ Here are some specific tasks and questions:
 + As a group, review the preamble and the first set of principles
 + Break into small groups according to assignment below
 + Each group reviews their section and
+  + Create lay person summaries of each principle
   + Do any of these principles enable or prohibit open science?
   + Identify which of these principles are relevant or which should be discarded (too PMI focused or administrative)
   + Can these principles be improved? Anything missing?
