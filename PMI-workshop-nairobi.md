@@ -1,38 +1,35 @@
 # Background
-Toward the end of 2015, the U.S. Precision Medicine Initiative (PMI) released their [Privacy and Trust Principles](https://www.whitehouse.gov/sites/default/files/microsites/finalpmiprivacyandtrustprinciples.pdf).
+Toward the end of 2015, the U.S. Precision Medicine Initiative (PMI) released their [Privacy and Trust Principles (PDF)](https://www.whitehouse.gov/sites/default/files/microsites/finalpmiprivacyandtrustprinciples.pdf). Here is a [google doc version](https://docs.google.com/document/d/1cJP5YkrHUqrXPczkgmmWk9pN1jT_ZwMP-h8VLGtLzXU/edit?usp=sharing) you can comment and edit. This will be important in a few minutes :)
 
-Task: Let’s create a version of this document that represents the values of open science, put it on github and invite ANY researcher to adopt and adapt it for their biomedical research study that incorporates open science practices.
+# Task
+Let’s create a version of this document that represents the values of open science, put it on github and invite ANY researcher to adopt and adapt it for their biomedical research study that incorporates open science practices.
 
-Which of these principles are relevant?
-Do any of these principles enable or prohibit open science?
-Is there anything missing?
-How can these principles be improved?
+Here are some specific tasks and questions:
++ As a group, review the preamble and the first set of principles
++ Break into small groups according to assignment below
++ Each group reviews their section and
+  + Do any of these principles enable or prohibit open science?
+  + Identify which of these principles are relevant or which should be discarded (too PMI focused or administrative)
+  + Can these principles be improved? Anything missing?
 
-
-https://docs.google.com/document/d/1cJP5YkrHUqrXPczkgmmWk9pN1jT_ZwMP-h8VLGtLzXU/edit?usp=sharing
-
-Steph
-Aurelia
-Richard
-Joey
-Christie
+# Groups
 
 Precision Medicine Initiative Privacy and Trust Principles Governance 
-Group
++ Whole Group
 
 Transparency
-Aurelia
-Jason
++ Aurelia
++ Jason
 
 Data Sharing, Access, and Use: 
-Joey
-Richard
++ Joey
++ Richard
 
 Data Quality and Integrity
-Christie
-Steph
++ Christie
++ Steph
 
 Respecting Participant Preferences 
 Participant Empowerment through Access to Information 
-Group
++ Whole Group, time permitting
 
