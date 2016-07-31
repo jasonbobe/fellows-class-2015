@@ -31,7 +31,8 @@ Transparency
 + Aurelia
 + Jason
 
-Respecting Participant Preferences 
+Respecting Participant Preferences
+
 Participant Empowerment through Access to Information 
 + Whole Group, time permitting
 
