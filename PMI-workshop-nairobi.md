@@ -17,10 +17,6 @@ Here are some specific tasks and questions:
 Precision Medicine Initiative Privacy and Trust Principles Governance 
 + Whole Group
 
-Transparency
-+ Aurelia
-+ Jason
-
 Data Sharing, Access, and Use: 
 + Joey
 + Richard
@@ -28,6 +24,10 @@ Data Sharing, Access, and Use:
 Data Quality and Integrity
 + Christie
 + Steph
+
+Transparency
++ Aurelia
++ Jason
 
 Respecting Participant Preferences 
 Participant Empowerment through Access to Information 
