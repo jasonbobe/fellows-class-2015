@@ -1,4 +1,4 @@
 # fellows-class-2015
-The go-to place for materials, contributions and collaborations for the 2015 Mozilla Fellows for Science.
+This repo organizes some of my work as part of the 2015 Mozilla Science Fellows.
 
-For more, visit [here](https://mozillascience.org/fellows).
+Check out my [fellowship resume](https://github.com/jasonbobe/fellows-class-2015/blob/master/resume.md)
