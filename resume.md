@@ -23,7 +23,7 @@ Event | Location | Date | Role
 [HDE Network Meeting](more) | San Diego CA | May 17, 2016 | Invited speaker
 [Quantified Self Public Health] (more) | San Diego CA | May 18, 2016 | Invited speaker
 [Open Humans Data Dive](more) | San Diego CA | May 19, 2016 | Participant and co-organizer
-[MedX NYC Pop-up](more) | NYC | May 26, 2016 | Invited speaker
+[MedX NYC Pop-up](more) | NYC, NY | May 26, 2016 | Invited speaker
 [White House]() | Washington DC | June 2-3, 2016 | Invited contributor
 [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2016) | Washington DC | June 3, 2016 | Collaborator
 [White House]() | Washington DC | June 28-29, 2016 | Invited contributor
