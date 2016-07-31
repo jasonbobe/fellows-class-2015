@@ -15,7 +15,7 @@ Event | Location | Date | Role
 [Precision Medicine Initiative Summit at the White House](more) | Washington DC | Feb 25, 2016 | Invited contributor
 [Open Data Roundatable on Privacy](https://www.data.gov/meta/open-data-roundtables/) | Washington DC | March 24, 2016 | Invited contributor
 [Shenzhen Assembly: Open Innovation and the Environment](http://sagebase.org/events/sage-event-02/) | Shenzhen, China | March 24-26, 2016 | Invited speaker
-[Bio-IT World](http://www.bio-itworldexpo.com/) | Boston MA | April 7, 2016 | Speaker
+[Bio-IT World](http://www.bio-itworldexpo.com/) | Boston MA | April 7, 2016 | Invited speaker
 [GETy Awards](http://www.getconference.org/get2016/awards.html) | Harvard Medical School Boston MA  | April 25, 2016 | Organizer
 [GET Labs](www.getconference.org/get2016/labs.html) | Harvard Medical School  Boston MA | April 25, 2016 | Organizer
 [GET Conference](www.getconference.org) | Harvard Medical School  Boston MA | April 26, 2016 | Organizer
