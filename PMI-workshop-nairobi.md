@@ -13,6 +13,7 @@ Here are some specific tasks and questions:
   + Can these principles be improved? Anything missing?
 
 # Groups
+These groups are organized according to the different sections of the document.
 
 Precision Medicine Initiative Privacy and Trust Principles Governance 
 + Whole Group
@@ -20,6 +21,7 @@ Precision Medicine Initiative Privacy and Trust Principles Governance
 Data Sharing, Access, and Use: 
 + Joey
 + Richard
++ Amel
 
 Data Quality and Integrity
 + Christie
