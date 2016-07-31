@@ -27,7 +27,7 @@ Event | Location | Date | Role
 [White House]() | Washington DC | June 2-3, 2016 | Invited contributor
 [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2016) | Washington DC | June 3, 2016 | Collaborator
 [White House]() | Washington DC | June 28-29, 2016 | Invited contributor
-[Nairobi Work Week]() | Nairobi, Kenya | July 26 - August 1, 2016 | Speaker
+[Nairobi Work Week]() | Nairobi, Kenya | July 26 - August 1, 2016 | Speaker & Participant
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
