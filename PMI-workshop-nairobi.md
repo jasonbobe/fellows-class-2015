@@ -36,3 +36,8 @@ Respecting Participant Preferences
 Participant Empowerment through Access to Information 
 + Whole Group, time permitting
 
+Next Steps
++ Create a lay person version. 10-hundred words.
++ Create a blog post, critically examining the document, highlighting feedback from session.
++ Use this as a scaffolding for a forkable Open Science version of this that researchers to could adopt/adapt to their study.
+
